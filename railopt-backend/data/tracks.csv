@@ -1,0 +1,6 @@
+source,target,travel_time
+S1,S2,15
+S2,S3,12
+S2,S5,18
+S5,S4,14
+S4,S1,16
